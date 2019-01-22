@@ -12,4 +12,7 @@ One Chinese Translation Project
 
 # 目录
 ## 攻击 && 防御
-1. [SSL/TLS attacks: Part 3 – BREACH Attack](https://github.com/1018ji/OCTP/blob/master/201901/BREACH%20Attack.md) - 201901
+1. [SSL/TLS attacks: Part 3 – BREACH Attack](https://github.com/1018ji/OCTP/blob/master/201901/BREACH%20Attack.md) - 20190121
+
+## MySQL 参考手册
+1. [MySQL Handling of GROUP BY](https://github.com/1018ji/OCTP/blob/master/201901/%20MySQL%20Handling%20of%20GROUP%20BY.md) - 20190122
