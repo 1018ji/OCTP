@@ -19,3 +19,9 @@ One Chinese Translation Project
 
 ## Web
 1. [Subresource Integrity (SRI) for Validating Web Resources Hosted on Third Party Services (CDNs)](https://github.com/1018ji/OCTP/blob/master/201901/Subresource%20Integrity%20(SRI)%20for%20Validating%20Web%20Resources%20Hosted%20on%20Third%20Party%20Services%20(CDNs).md) - 20190125
+
+## 重构
+1. [If-statements design: guard clauses may be all you need](https://github.com/1018ji/OCTP/blob/master/201901/If-statements%20design%20guard%20clauses%20may%20be%20all%20you%20need.md) - 20190130
+
+## NEXT
+All endings are beginnings, we just don't know it at the time.
