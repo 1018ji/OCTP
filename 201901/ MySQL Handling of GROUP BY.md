@@ -1,4 +1,4 @@
-# MySQL Handling of GROUP BY (MySQL 如何处理 GROUP BY)
+# 12.19.3 MySQL Handling of GROUP BY (MySQL 如何处理 GROUP BY)
 
 SQL-92 and earlier does not permit queries for which the select list, HAVING condition, or ORDER BY list refer to nonaggregated columns that are not named in the GROUP BY clause. For example, this query is illegal in standard SQL-92 because the nonaggregated name column in the select list does not appear in the GROUP BY:
 
@@ -196,7 +196,7 @@ FROM
 
 ## 原文
 
-[MySQL Handling of GROUP BY](https://dev.mysql.com/doc/refman/8.0/en/group-by-handling.html)
+[12.19.3 MySQL Handling of GROUP BY](https://dev.mysql.com/doc/refman/8.0/en/group-by-handling.html)
 
 ****
 **THE END [ 2019-01-22 ]**

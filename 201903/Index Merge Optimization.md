@@ -1,4 +1,4 @@
-# Index Merge Optimization (索引合并优化)
+# 8.2.1.3 Index Merge Optimization (索引合并优化)
 
 The Index Merge access method retrieves rows with multiple range scans and merges their results into one. This access method merges index scans from a single table only, not scans across multiple tables. The merge can produce unions, intersections, or unions-of-intersections of its underlying scans.
 
@@ -181,7 +181,7 @@ In addition to using the optimizer_switch system variable to control optimizer u
 
 ## 原文
 
-[Index Merge Optimization](https://dev.mysql.com/doc/refman/8.0/en/index-merge-optimization.html)
+[8.2.1.3 Index Merge Optimization](https://dev.mysql.com/doc/refman/8.0/en/index-merge-optimization.html)
 
 ****
 **THE END [ 2019-03-04 ]**

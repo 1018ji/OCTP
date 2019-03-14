@@ -15,9 +15,9 @@ One Chinese Translation Project
 1. [SSL/TLS attacks: Part 3 – BREACH Attack](https://github.com/1018ji/OCTP/blob/master/201901/BREACH%20Attack.md) - 20190121
 
 ## MySQL 参考手册
-1. [MySQL Handling of GROUP BY](https://github.com/1018ji/OCTP/blob/master/201901/%20MySQL%20Handling%20of%20GROUP%20BY.md) - 20190122
-2. [Index Merge Optimization](https://github.com/1018ji/OCTP/blob/master/201903/Index%20Merge%20Optimization.md) - 20190304
-3. [START TRANSACTION, COMMIT, and ROLLBACK Syntax](https://github.com/1018ji/OCTP/blob/master/201903/START%20TRANSACTION%2C%20COMMIT%2C%20and%20ROLLBACK%20Syntax.md) - 20190304
+1. [12.19.3 MySQL Handling of GROUP BY](https://github.com/1018ji/OCTP/blob/master/201901/%20MySQL%20Handling%20of%20GROUP%20BY.md) - 20190122
+2. [8.2.1.3 Index Merge Optimization](https://github.com/1018ji/OCTP/blob/master/201903/Index%20Merge%20Optimization.md) - 20190304
+3. [13.3.1 START TRANSACTION, COMMIT, and ROLLBACK Syntax](https://github.com/1018ji/OCTP/blob/master/201903/START%20TRANSACTION%2C%20COMMIT%2C%20and%20ROLLBACK%20Syntax.md) - 20190304
 
 ## Web
 1. [Subresource Integrity (SRI) for Validating Web Resources Hosted on Third Party Services (CDNs)](https://github.com/1018ji/OCTP/blob/master/201901/Subresource%20Integrity%20(SRI)%20for%20Validating%20Web%20Resources%20Hosted%20on%20Third%20Party%20Services%20(CDNs).md) - 20190125
