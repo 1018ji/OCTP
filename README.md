@@ -24,7 +24,7 @@ One Chinese Translation Project
 1. [Semi-join Subquery Optimizations](https://github.com/1018ji/OCTP/blob/master/201903/Semi-join/0.%20Semi-join%20Subquery%20Optimizations.md) - 20190315
     * [Table pullout optimization](https://github.com/1018ji/OCTP/blob/master/201903/Semi-join/1.%20Table%20Pullout%20Optimization.md) - 20190315
     * [FirstMatch execution strategy](https://github.com/1018ji/OCTP/blob/master/201903/Semi-join/2%20FirstMatch%20Strategy.md)
-    * [Semi-join Materialization execution strategy](https://github.com/1018ji/OCTP/blob/master/201903/Semi-join/3.%20Semi-join%20Materialization%20Strategy.md)
+    * [Semi-join Materialization execution strategy](https://github.com/1018ji/OCTP/blob/master/201903/Semi-join/3.%20Semi-join%20Materialization%20Strategy.md) - 20190318
     * [LooseScan execution strategy](https://github.com/1018ji/OCTP/blob/master/201903/Semi-join/4.%20LooseScan%20Strategy.md)
     * [DuplicateWeedout execution strategy](https://github.com/1018ji/OCTP/blob/master/201903/Semi-join/5.%20DuplicateWeedout%20Strategy.md)
 2. next
